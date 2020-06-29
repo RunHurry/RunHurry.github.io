@@ -1,0 +1,786 @@
+<?xml version="1.0"?>
+<objects>
+	<all>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40071415b.jpg</imsrc>
+                <name>PS4 игра Sony Одни из нас. Часть II</name>
+                <cost>4490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/10021188b.jpg</imsrc>
+                <name>Радиоуправляемый квадрокоптер Pilotage</name>
+                <cost>4890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30043736b.jpg</imsrc>
+                <name>Системный блок игровой Lenovo Legion</name>
+                <cost>44890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049665b.jpg</imsrc>
+                <name>Смартфон Huawei Y8p Breathing Crystal</name>
+                <cost>16990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049879b.jpg</imsrc>
+                <name>Смартфон Honor 30 Pro+ 256GB Titanium Silver</name>
+                <cost>34990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/30046119m.jpg</imsrc>
+                <name>Ноутбук Lenovo</name>
+                <cost>43290</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049632b.jpg</imsrc>
+                <name>Системный блок Apple Mac mini</name>
+                <cost>44890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044927b.jpg</imsrc>
+                <name>Системный блок Dell Inspiron </name>
+                <cost>67890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20060673b.jpg</imsrc>
+                <name>Стиральная машина с сушкой</name>
+                <cost>42990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20063143b.jpg</imsrc>
+                <name>Стиральная машина узкая LG</name>
+                <cost>32990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30039370b.jpg</imsrc>
+                <name>Системный блок игровой HP OMEN</name>
+                <cost>56690</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30039525b.jpg</imsrc>
+                <name>Системный блок HP Pavilion </name>
+                <cost>24970</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20066478b.jpg</imsrc>
+                <name>Стиральная машина узкая Haier</name>
+                <cost>30990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20037068b.jpg</imsrc>
+                <name>Паровой шкаф для ухода за одеждой LG</name>
+                <cost>79990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065660b.jpg</imsrc>
+                <name>Геймпад для консоли PS4 PlayStation 4 DualShock 4</name>
+                <cost>4999</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065372b.jpg</imsrc>
+                <name>Геймпад для консоли PS4 PlayStation 4 DualShock 4</name>
+                <cost>4999</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/small_pic/480/40071396b.jpg</imsrc>
+                <name>Xbox One игра Bethesda DOOM Eternal</name>
+                <cost>3990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065551b.jpg</imsrc>
+                <name>Беспроводной геймпад Xbox One белый</name>
+                <cost>4390</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065538b.jpg</imsrc>
+                <name>Геймпад для консоли Xbox One черный</name>
+                <cost>4390</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/small_pic/480/30042491b.jpg</imsrc>
+                <name>Моноблок Acer Aspire</name>
+                <cost>53990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30040032b.jpg</imsrc>
+                <name>Смартфон Apple iPhone XR 64GB Black</name>
+                <cost>49990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/50131664b.jpg</imsrc>
+                <name>Наушники Bluetooth Huawei Freebuds 3</name>
+                <cost>9990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30039336b.jpg</imsrc>
+                <name>Моноблок ASUS Zen AiO</name>
+                <cost>55678</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20041624b.jpg</imsrc>
+                <name>Стиральная машина настенная Daewoo</name>
+                <cost>130190</cost>
+            </objall>
+                        <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40070104b.jpg</imsrc>
+                <name>PS4 игра Sony Uncharted 4: Путь вора. Хиты PS</name>
+                <cost>1350</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065145b.jpg</imsrc>
+                <name>PS4 игра CD Projekt RED Ведьмак 3: Дикая Охота</name>
+                <cost>2790</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40069866b.jpg</imsrc>
+                <name>Xbox One игра EA BATTLEFIELD V</name>
+                <cost>1990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044925b.jpg</imsrc>
+                <name>Системный блок Dell Vostro </name>
+                <cost>35590</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20064904b.jpg</imsrc>
+                <name>Стиральная машина узкая Candy Smart</name>
+                <cost>16990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30048213b.jpg</imsrc>
+                <name>Смартфон Samsung Galaxy S20 Ultra Black</name>
+                <cost>99990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40073996b.jpg</imsrc>
+                <name>Игровая консоль PlayStation Pro 4 + TLOU2</name>
+                <cost>37990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40072253b.jpg</imsrc>
+                <name>Игровая консоль PlayStation Pro 4 + 2 игpы</name>
+                <cost>34990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/40072260m.jpg</imsrc>
+                <name>Игровая консоль Xbox One Microsoft S 1TB All</name>
+                <cost>18690</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/40070213m.jpg</imsrc>
+                <name>Игровая консоль Xbox One Microsoft S 1TB + FH4</name>
+                <cost>23990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044868b.jpg</imsrc>
+                <name>Смартфон Xiaomi Redmi 7A 32GB Matte Black</name>
+                <cost>7490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30048566b.jpg</imsrc>
+                <name>Системный блок MSI Prestige</name>
+                <cost>56990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20032251b.jpg</imsrc>
+                <name>Холодильник Hotpoint-Ariston</name>
+                <cost>31990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30043534b.jpg</imsrc>
+                <name>Системный блок Lenovo IdeaCentre</name>
+                <cost>47990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30045357b.jpg</imsrc>
+                <name>Смартфон Apple iPhone 11 64GB Black</name>
+                <cost>59990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40071255b.jpg</imsrc>
+                <name>PS4 игра EA Star Wars Jedi: Fallen Order</name>
+                <cost>2390</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40069855b.jpg</imsrc>
+                <name>Геймпад для консоли PS4 PlayStation 4 PS Move</name>
+                <cost>5490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40063181b.jpg</imsrc>
+                <name>Акcессуар для геймпада Xbox One Venom зар.</name>
+                <cost>1590</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40071132b.jpg</imsrc>
+                <name>Наушники для Xbox One Plantronics RIG 500 PRO</name>
+                <cost>2349</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049498b.jpg</imsrc>
+                <name>Смартфон Apple iPhone SE 2020 128GB Black</name>
+                <cost>44990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30050062b.jpg</imsrc>
+                <name>Смартфон Redmi Note 9 Pro</name>
+                <cost>23990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30047748b.jpg</imsrc>
+                <name>Системный блок Apple Mac Pro Intel Xeon 12</name>
+                <cost>629990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20044174b.jpg</imsrc>
+                <name>Винный шкаф Pozis ШВД-78 Cherry</name>
+                <cost>54490</cost>
+            </objall>
+            
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20035898b.jpg</imsrc>
+                <name>Холодильник Haier</name>
+                <cost>64390</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20040714b.jpg</imsrc>
+                <name>Мультиварка Redmond RMC-M800S</name>
+                <cost>8890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20050693b.jpg</imsrc>
+                <name>Микроволновая печь соло Galanz</name>
+                <cost>3990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20040732b.jpg</imsrc>
+                <name>Посудомоечная машина Bosch SilencePlus</name>
+                <cost>24990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20040179b.jpg</imsrc>
+                <name>Посудомоечная машина (60 см) Midea</name>
+                <cost>25990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049802b.jpg</imsrc>
+                <name>Моноблок Lenovo IdeaCentre</name>
+                <cost>51490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30046817b.jpg</imsrc>
+                <name>Ноутбук-трансформер Acer</name>
+                <cost>25990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20065697b.jpg</imsrc>
+                <name>Электрочайник Scarlett SC - EK18P70</name>
+                <cost>990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20063496b.jpg</imsrc>
+                <name>Электрочайник Maxwell MW-1043</name>
+                <cost>590</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/small_pic/480/30048024b.jpg</imsrc>
+                <name>Ноутбук-трансформер Lenovo</name>
+                <cost>195990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044137b.jpg</imsrc>
+                <name>Моноблок Apple iMac 27</name>
+                <cost>254990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30048560b.jpg</imsrc>
+                <name>Системный блок игровой MSI Trident 3 Arctic</name>
+                <cost>81990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20059560b.jpg</imsrc>
+                <name>Соковыжималка шнековая Moulinex</name>
+                <cost>12990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40070815b.jpg</imsrc>
+                <name>Xbox One игра WB Mortal Kombat 11</name>
+                <cost>3990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/10022262b.jpg</imsrc>
+                <name>Радиоуправляемый квадрокоптер Syma X25</name>
+                <cost>8990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20032104b.jpg</imsrc>
+                <name>Микроволновая печь соло Samsung</name>
+                <cost>8690</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044738b.jpg</imsrc>
+                <name>Системный блок игровой Lenovo IdeaCentre</name>
+                <cost>57990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049939b.jpg</imsrc>
+                <name>Ноутбук игровой Acer Nitro 5</name>
+                <cost>49990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/40071606m.jpg</imsrc>
+                <name>Игровая приставка Nintendo Switch (серый)</name>
+                <cost>22990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/50131384b.jpg</imsrc>
+                <name>Наушники Apple AirPods Pro with Wireless Case</name>
+                <cost>19990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/50128063b.jpg</imsrc>
+                <name>Наушники Bluetooth Xiaomi Mi True Wireless</name>
+                <cost>4790</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30028577b.jpg</imsrc>
+                <name>Ноутбук Apple MacBook Air 13</name>
+                <cost>66990</cost>
+            </objall>
+        </all>
+        <comp>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30043736b.jpg</imsrc>
+                <name>Системный блок игровой Lenovo Legion</name>
+                <cost>44890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/30046119m.jpg</imsrc>
+                <name>Ноутбук Lenovo</name>
+                <cost>43290</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049632b.jpg</imsrc>
+                <name>Системный блок Apple Mac mini</name>
+                <cost>44890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044927b.jpg</imsrc>
+                <name>Системный блок Dell Inspiron </name>
+                <cost>67890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30039370b.jpg</imsrc>
+                <name>Системный блок игровой HP OMEN</name>
+                <cost>56690</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30039525b.jpg</imsrc>
+                <name>Системный блок HP Pavilion </name>
+                <cost>24970</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/small_pic/480/30042491b.jpg</imsrc>
+                <name>Моноблок Acer Aspire</name>
+                <cost>53990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30039336b.jpg</imsrc>
+                <name>Моноблок ASUS Zen AiO</name>
+                <cost>55678</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044925b.jpg</imsrc>
+                <name>Системный блок Dell Vostro </name>
+                <cost>35590</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30048566b.jpg</imsrc>
+                <name>Системный блок MSI Prestige</name>
+                <cost>56990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30043534b.jpg</imsrc>
+                <name>Системный блок Lenovo IdeaCentre</name>
+                <cost>47990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30047748b.jpg</imsrc>
+                <name>Системный блок Apple Mac Pro Intel Xeon 12</name>
+                <cost>629990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049802b.jpg</imsrc>
+                <name>Моноблок Lenovo IdeaCentre</name>
+                <cost>51490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30046817b.jpg</imsrc>
+                <name>Ноутбук-трансформер Acer</name>
+                <cost>25990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/40064636m.jpg</imsrc>
+                <name>PS4 игра Bandai Namco Dark Souls III</name>
+                <cost>2490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/small_pic/480/40071332b.jpg</imsrc>
+                <name>Xbox One игра EA FIFA 20</name>
+                <cost>1490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40070029b.jpg</imsrc>
+                <name>PS4 игра Sony Bloodborne. Хиты PS</name>
+                <cost>1350</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40071436b.jpg</imsrc>
+                <name>PS4 игра Sony Horizon Zero Dawn</name>
+                <cost>1350</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/small_pic/480/30048024b.jpg</imsrc>
+                <name>Ноутбук-трансформер Lenovo </name>
+                <cost>195990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044137b.jpg</imsrc>
+                <name>Моноблок Apple iMac 27 </name>
+                <cost>254990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30048560b.jpg</imsrc>
+                <name>Системный блок игровой MSI Trident 3 Arctic</name>
+                <cost>81990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044738b.jpg</imsrc>
+                <name>Системный блок игровой Lenovo IdeaCentre</name>
+                <cost>57990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049939b.jpg</imsrc>
+                <name>Ноутбук игровой Acer Nitro 5</name>
+                <cost>49990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30028577b.jpg</imsrc>
+                <name>Ноутбук Apple MacBook Air 13</name>
+                <cost>66990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/6011222m.jpg</imsrc>
+                <name>Подписка PS Sony Код PlayStation Plus 1 Месяц</name>
+                <cost>529</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/6010535b.jpg</imsrc>
+                <name>Подписка Xbox Microsoft Game Pass Ultimate 1 мес</name>
+                <cost>599</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/6004613m.jpg</imsrc>
+                <name>Подписка PS Sony PlayStation Plus 12 мес</name>
+                <cost>3299</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/6011044b.jpg</imsrc>
+                <name>Подписка Xbox Microsoft Game Pass Ultimate 12 м.</name>
+                <cost>10776</cost>
+            </objall>
+        </comp>
+        <smart> 
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30045357b.jpg</imsrc>
+                <name>Смартфон Apple iPhone 11 64GB Black</name>
+                <cost>59990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049498b.jpg</imsrc>
+                <name>Смартфон Apple iPhone SE 2020 128GB Black</name>
+                <cost>44990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30050062b.jpg</imsrc>
+                <name>Смартфон Redmi Note 9 Pro</name>
+                <cost>23990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049665b.jpg</imsrc>
+                <name>Смартфон Huawei Y8p Breathing Crystal</name>
+                <cost>16990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30049879b.jpg</imsrc>
+                <name>Смартфон Honor 30 Pro+ 256GB Titanium Silver</name>
+                <cost>34990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30048213b.jpg</imsrc>
+                <name>Смартфон Samsung Galaxy S20 Ultra Black</name>
+                <cost>99990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30044868b.jpg</imsrc>
+                <name>Смартфон Xiaomi Redmi 7A 32GB Matte Black</name>
+                <cost>7490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/30040032b.jpg</imsrc>
+                <name>Смартфон Apple iPhone XR 64GB Black</name>
+                <cost>49990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/50131664b.jpg</imsrc>
+                <name>Наушники Bluetooth Huawei Freebuds 3</name>
+                <cost>9990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/50131384b.jpg</imsrc>
+                <name>Наушники Apple AirPods Pro with Wireless Case</name>
+                <cost>19990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/50128063b.jpg</imsrc>
+                <name>Наушники Bluetooth Xiaomi Mi True Wireless</name>
+                <cost>4790</cost>
+            </objall>
+        </smart>
+        <dom>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20066478b.jpg</imsrc>
+                <name>Стиральная машина узкая Haier</name>
+                <cost>30990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20064904b.jpg</imsrc>
+                <name>Стиральная машина узкая Candy Smart</name>
+                <cost>16990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20060673b.jpg</imsrc>
+                <name>Стиральная машина с сушкой</name>
+                <cost>42990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20063143b.jpg</imsrc>
+                <name>Стиральная машина узкая LG</name>
+                <cost>32990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20037068b.jpg</imsrc>
+                <name>Паровой шкаф для ухода за одеждой LG</name>
+                <cost>79990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20041624b.jpg</imsrc>
+                <name>Стиральная машина настенная Daewoo</name>
+                <cost>130190</cost>
+            </objall>
+        </dom>
+        <kitc> 
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20032251b.jpg</imsrc>
+                <name>Холодильник Hotpoint-Ariston</name>
+                <cost>31990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20035898b.jpg</imsrc>
+                <name>Холодильник Haier</name>
+                <cost>64390</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20040714b.jpg</imsrc>
+                <name>Мультиварка Redmond RMC-M800S</name>
+                <cost>8890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20065697b.jpg</imsrc>
+                <name>Электрочайник Scarlett SC - EK18P70</name>
+                <cost>990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20063496b.jpg</imsrc>
+                <name>Электрочайник Maxwell MW-1043</name>
+                <cost>590</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20059560b.jpg</imsrc>
+                <name>Соковыжималка шнековая Moulinex</name>
+                <cost>12990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20032104b.jpg</imsrc>
+                <name>Микроволновая печь соло Samsung</name>
+                <cost>8690</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20050693b.jpg</imsrc>
+                <name>Микроволновая печь соло Galanz</name>
+                <cost>3990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20040732b.jpg</imsrc>
+                <name>Посудомоечная машина Bosch SilencePlus</name>
+                <cost>24990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20040179b.jpg</imsrc>
+                <name>Посудомоечная машина (60 см) Midea</name>
+                <cost>25990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/20044174b.jpg</imsrc>
+                <name>Винный шкаф Pozis ШВД-78 Cherry</name>
+                <cost>54490</cost>
+            </objall>
+        </kitc>
+        <play>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40073996b.jpg</imsrc>
+                <name>Игровая консоль PlayStation Pro 4 + TLOU2</name>
+                <cost>37990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40072253b.jpg</imsrc>
+                <name>Игровая консоль PlayStation Pro 4 + 2 игpы</name>
+                <cost>34990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/40072260m.jpg</imsrc>
+                <name>Игровая консоль Xbox One Microsoft S 1TB All</name>
+                <cost>18690</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/40070213m.jpg</imsrc>
+                <name>Игровая консоль Xbox One Microsoft S 1TB + FH4</name>
+                <cost>23990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/40071606m.jpg</imsrc>
+                <name>Игровая приставка Nintendo Switch (серый)</name>
+                <cost>22990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40071415b.jpg</imsrc>
+                <name>PS4 игра Sony Одни из нас. Часть II</name>
+                <cost>4490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065660b.jpg</imsrc>
+                <name>Геймпад для консоли PS4 PlayStation 4 DualShock 4</name>
+                <cost>4999</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065372b.jpg</imsrc>
+                <name>Геймпад для консоли PS4 PlayStation 4 DualShock 4</name>
+                <cost>4999</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/small_pic/480/40071396b.jpg</imsrc>
+                <name>Xbox One игра Bethesda DOOM Eternal</name>
+                <cost>3990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065551b.jpg</imsrc>
+                <name>Беспроводной геймпад Xbox One белый</name>
+                <cost>4390</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065538b.jpg</imsrc>
+                <name>Геймпад для консоли Xbox One черный</name>
+                <cost>4390</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40071255b.jpg</imsrc>
+                <name>PS4 игра EA Star Wars Jedi: Fallen Order</name>
+                <cost>2390</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40069855b.jpg</imsrc>
+                <name>Геймпад для консоли PS4 PlayStation 4 PS Move</name>
+                <cost>5490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40063181b.jpg</imsrc>
+                <name>Акcессуар для геймпада Xbox One Venom зар.</name>
+                <cost>1590</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40071132b.jpg</imsrc>
+                <name>Наушники для Xbox One Plantronics RIG 500 PRO</name>
+                <cost>2349</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/10021188b.jpg</imsrc>
+                <name>Радиоуправляемый квадрокоптер Pilotage</name>
+                <cost>4890</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/40064636m.jpg</imsrc>
+                <name>PS4 игра Bandai Namco Dark Souls III</name>
+                <cost>2490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/small_pic/480/40071332b.jpg</imsrc>
+                <name>Xbox One игра EA FIFA 20</name>
+                <cost>1490</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40070029b.jpg</imsrc>
+                <name>PS4 игра Sony Bloodborne. Хиты PS</name>
+                <cost>1350</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40071436b.jpg</imsrc>
+                <name>PS4 игра Sony Horizon Zero Dawn</name>
+                <cost>1350</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40070815b.jpg</imsrc>
+                <name>Xbox One игра WB Mortal Kombat 11</name>
+                <cost>3990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/10022262b.jpg</imsrc>
+                <name>Радиоуправляемый квадрокоптер Syma X25</name>
+                <cost>8990</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/6011222m.jpg</imsrc>
+                <name>Подписка PS Sony Код PlayStation Plus 1 Месяц</name>
+                <cost>529</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/6010535b.jpg</imsrc>
+                <name>Подписка Xbox Microsoft Game Pass Ultimate 1 мес</name>
+                <cost>599</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img-atgplt.mvideo.ru/Pdb/6004613m.jpg</imsrc>
+                <name>Подписка PS Sony PlayStation Plus 12 мес</name>
+                <cost>3299</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/6011044b.jpg</imsrc>
+                <name>Подписка Xbox Microsoft Game Pass Ultimate 12 м.</name>
+                <cost>10776</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40070104b.jpg</imsrc>
+                <name>PS4 игра Sony Uncharted 4: Путь вора. Хиты PS</name>
+                <cost>1350</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40065145b.jpg</imsrc>
+                <name>PS4 игра CD Projekt RED Ведьмак 3: Дикая Охота</name>
+                <cost>2790</cost>
+            </objall>
+            <objall>
+                <imsrc>https://img.mvideo.ru/Pdb/small_pic/480/40069866b.jpg</imsrc>
+                <name>Xbox One игра EA BATTLEFIELD V</name>
+                <cost>1990</cost>
+            </objall>
+        </play>
+</objects>

@@ -1,0 +1,150 @@
+*{
+    color: graytext;
+}
+#xead{
+    height:180px;
+}
+#searcmain{
+    display: flex;
+    flex-direction:row;
+    width: 80%;
+    height: 13%;
+    position: relative;
+    left:8%;
+    padding: 2%;
+}
+#searc{
+    width: 100%;
+    height: 88%;
+}
+#butt {
+  position: relative;
+  color: #fff; /* цвет текста */
+  background: rgb(212,75,56); /* фон кнопки */
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 0.6em;
+  padding-bottom: 1.7em;
+  border:none;
+} 
+#butt:hover { 
+    background: rgb(232,95,76); 
+} /* при наведении курсора мышки */
+#butt:active { 
+    background: #77212E; 
+} /* при нажатии */
+#navi{
+    position: relative;
+    display: flex;
+    flex-direction:row;
+    width: 70%;
+    left:10%;
+    height: 70px;
+    top:10%;
+}
+a{
+    display: block;
+    width: 60%;
+    height: 40px;
+    padding:15px;
+    border: 1px solid black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    background-color: #FF6F61;
+}
+a:visited{
+    color:black;
+}
+#main{
+    background-color: #e6e6e6;
+}
+#stors{
+    z-index: 50;
+    position:fixed;
+    top:70%;
+    left:78%;
+    background-color: white;
+    width: 300px;
+    height:150px;
+    border:solid;
+    border-top-left-radius: 2em;
+    border-color: rgb(212,75,56);
+}
+#swipe{
+    width: 30px;
+    height:149px;
+    border-top-left-radius: 1.8em;
+    background-color:rgb(64,199,129);
+    border:solid;
+    border-width: 0.1em;
+    float: left;
+}
+#swipe:hover { 
+    cursor:pointer;
+    background: rgb(53, 167, 110); }
+#swipe:active {
+  background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+#storin{
+    padding-top: 10px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold;
+    color:black;
+    font-size: 1em;
+    text-align: center;
+}
+#sum
+{
+    padding-top: 16px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold;
+    color:black;
+    font-size: 1em;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+#sums{
+    padding-left: 40%;
+}
+#suma{
+    padding-left: 10%;
+}
+a.button10 {
+    margin-top: 20px;
+    margin-left: 25px;
+   text-align: center;
+  display: inline-block;
+  color: black;
+  font-size: 100%;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding-top: 0.8em;
+  padding-bottom: 0.1px;
+  outline: none;
+  border: 1px solid rgb(250,172,17);
+  border-radius: 7px;
+  background: rgb(255,212,3) linear-gradient(rgb(255,212,3), rgb(248,157,23));
+  box-shadow: inset 0 -2px 1px rgba(0,0,0,0), inset 0 1px 2px rgba(0,0,0,0), inset 0 0 0 60px rgba(255,255,0,0);
+  transition: box-shadow .2s, border-color .2s;
+} 
+a.button10:hover {
+  box-shadow: inset 0 -1px 1px rgba(0,0,0,0), inset 0 1px 2px rgba(0,0,0,0), inset 0 0 0 60px rgba(255,255,0,.5);
+}
+a.button10:active {
+  border-color: rgba(177,159,0,1);
+  box-shadow: inset 0 -1px 1px rgba(0,0,0,.1), inset 0 1px 2px rgba(0,0,0,.3), inset 0 0 0 60px rgba(255,255,0,.45);
+}
+#col{
+    color: black;
+}
+.lo{
+    width: 40%;
+    height:100px;
+    margin-left:30%;
+}

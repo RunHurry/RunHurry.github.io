@@ -1,0 +1,99 @@
+#slider{
+    position:relative;
+    text-align:center;
+    top:10px;
+}
+
+.all{
+    margin-top:120px;
+    width: 60%;
+    height: 60%;
+    margin-left: 20%;
+    
+}
+#slider{
+    margin: 0 auto;
+}
+#slider article{
+    width: 20%;
+    float:left;
+}
+#slider .im{
+    width: 500%;
+    line-height: 0;
+}
+#overflow{
+    width: 100%;
+    overflow: hidden;
+}
+article img{
+    width: 100%;
+}
+#desktop:checked ~#slider{
+    max-width: 960px;
+}
+label, a{
+    cursor:pointer;
+}
+.all input{
+    display:none;
+}
+#switc1:checked ~ #slides .im{
+    margin-left: 0;
+}
+#switc2:checked ~ #slides .im{
+    margin-left: -100%;
+}
+#switc3:checked ~ #slides .im{
+    margin-left: -200%;
+}
+#switc4:checked ~ #slides .im{
+    margin-left: -300%;
+}
+#switc5:checked ~ #slides .im{
+    margin-left: -400%;
+}
+#active label{
+    border-radius: 10px;
+    display:inline-block;
+    width: 15px;
+    height: 15px;
+    background: #bbb;
+}
+#active{
+    margin: 3%;
+    text-align: center;
+    height: 10%;
+}
+#active label:hover{
+    background: #76c8ff;
+    border-color: #777 !important;
+}
+#switc1:checked ~ #active label:nth-child(1),
+#switc2:checked ~ #active label:nth-child(2),
+#switc3:checked ~ #active label:nth-child(3),
+#switc4:checked ~ #active label:nth-child(4),
+#switc5:checked ~ #active label:nth-child(5){
+    background: #18a3dd;
+    border-color: #18a3dd !important;
+}
+#slides .im{
+    transition: all 800ms ease-in;
+}
+.razdel{
+    margin-top: 5%;
+    margin-left: 5%;
+    height: 3px;
+    display:flex;
+    flex-direction: row;
+}
+.razdel div:first-child,.razdel div:last-child{
+    margin-top: 2px;
+    padding : 0% 1%;
+   height: 2px;
+   width: 40%;
+   background-color:rgb(212,75,56);;
+}
+.razdel div{
+    padding: 0% 1%;
+}
